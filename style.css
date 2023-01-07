@@ -1,0 +1,24 @@
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+#profile{
+  text-align: center;
+}
+#profile_pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid 5px white;
+}
+#profile_name{
+  color: white;
+  font-size: 50px;
+  margin: 10px 0;
+}
+#profile_info{
+  color: white;
+  font-size: 25px;
+  margin: 10px 0;
+}
